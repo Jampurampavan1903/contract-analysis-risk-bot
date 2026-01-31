@@ -1,7 +1,6 @@
 # Contract Analysis & Risk Assessment Bot
 
-**Author: Saipavankalyan Jampuram**  
-Graduate Student | Data Science & AI  
+**Author: Saipavankalyan Jampuram**   
 GitHub: https://github.com/Jampurampavan1903  
 
 ---
