@@ -5,6 +5,13 @@ GitHub: https://github.com/Jampurampavan1903
 
 ---
 
+## 🌍 Live Deployed Application
+
+👉 **https://contract-analysis-risk-bot.onrender.com/**  
+
+
+---
+
 A **GenAI-powered legal contract analysis system** built as part of a **Data Science Hackathon**.  
 This application helps Small and Medium Enterprises (SMEs) understand complex contracts, identify legal risks, and make informed decisions using clear, plain-language explanations.
 
