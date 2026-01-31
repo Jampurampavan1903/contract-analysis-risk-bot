@@ -2,7 +2,7 @@
 
 **Author: Saipavankalyan Jampuram**  
 Graduate Student | Data Science & AI  
-GitHub: https://github.com/Jampurampavan1903
+GitHub: https://github.com/Jampurampavan1903  
 
 ---
 
@@ -56,7 +56,7 @@ The system is designed to be **privacy-focused**, **easy to use**, and **deploya
 - **NLP Libraries:** spaCy, NLTK  
 - **Document Parsing:** pdfplumber, python-docx  
 - **Version Control:** Git & GitHub  
-- **Deployment Platform:** Render (Public URL)  
+- **Deployment Platform:** Render  
 
 ---
 
